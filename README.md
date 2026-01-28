@@ -1,4 +1,5 @@
  Pneumonia Detection using CNN
+ 
 Acest proiect utilizează Rețele Neuronale Convoluționale (CNN) pentru a detecta automat pneumonia din radiografiile toracice. Modelul a fost dezvoltat iterativ, ajungând la o performanță ridicată prin tehnici avansate de Deep Learning.
 
 📊 Performanță Model
